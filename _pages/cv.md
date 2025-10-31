@@ -5,8 +5,7 @@ author_profile: true
 permalink: /cv/index.html
 ---
 # FRANCIS ALWYN COOMANS
-
-<b>CYBERSECURITY SPECIALIST | OFFENSIVE SECURITY CONSULTANT | OSCP, CPTS, CWES | 25+ YRS IT & SECURITY</b>
+**CYBERSECURITY SPECIALIST | OFFENSIVE SECURITY CONSULTANT | OSCP, CPTS, CWES | 25+ YRS IT & SECURITY**
 
 ## Contact Details
 
@@ -25,7 +24,7 @@ Previously led enterprise IT operations at ACTOM (Pty) Ltd, including Active Dir
 and group-wide infrastructure projects. This dual background in IT management and offensive security enables me to bridge the gap between
 defense and attack—identifying vulnerabilities while understanding their operational and business impact.
 
-Now seeking local or remote international roles where I can apply both technical depth and practical business insight to help organizations
+Now seeking local or remote international roles where I can apply both technical depth and practical business insight to help organisations
 strengthen their security posture.
 
 ## Key Achievements
@@ -39,8 +38,10 @@ strengthen their security posture.
 
 ## Professional Experience
 
-<b>Cybersecurity Specialist | Self-Directed Training</b><br>
-<em>June 2023 – Present</em>
+### Cybersecurity Specialist | Self-Directed Training
+*June 2023 – Present*
+
+Focus on bridging the gap between IT Admin and Cybersecurity.
 
 - Earned OSCP, CPTS, and CWES certifications through 70+ OffSec labs and advanced HackTheBox challenges.
 - Compromised 42+ machines across AD, network, and web environments, simulating real-world penetration tests.
@@ -48,64 +49,65 @@ strengthen their security posture.
 - Ranked Pro Hacker (top 1%) on HackTheBox and Top 1% on HTB Academy, validating hands-on expertise.
 - Built reporting skills using SysReptor and delivered structured write-ups for CTFs and retired HTB machines.
 
-<p></p>
-<b>Group IT Administrator | ACTOM (Pty) Ltd, Gauteng, South Africa</b><br>
-<em>November 1997 – April 2023</em>
+### Group IT Administrator | ACTOM (Pty) Ltd, Gauteng, South Africa
+*November 1997 – April 2023*
+
+ACTOM is a large corporate in the Energy Manufacturing sector.
 
 - Cybersecurity Leadership: Trained 500+ staff on phishing awareness and mentored IT technicians across business units.
 - Risk Reduction: Performed vulnerability assessments with Greenbone/OpenVAS, enforced RBAC/Least Privilege, and hardened AD against attacks (e.g., Kerberoasting).
 - Network Security: Deployed firewalls, VPNs, and VLANs across 10+ sites; managed endpoint security and patch compliance.
 - Systems Administration: Managed AD/GPOs for 500+ users; administered M365, Domino, and Linux environments; automated operations with PowerShell, Python, and Bash.
 - Major Projects:
-  - Head Office IT Infrastructure (2021–22): Delivered servers, networks, VLANs, and firewalls.
-  - Server Room Build (2022): Designed & secured a new server facility.
-  - Virtualization (2016–22): Consolidated infrastructure via Hyper-V & XenServer, cutting hardware costs.
-  - O365 Migration (2020): Migrated from Domino with Barracuda integration.
+  - Head Office IT Infrastructure (2021–22): Planned, Configured and maintained servers, networks, VLANs, and firewalls.
+  - Server Room Build (2022): Designed & secured a new server room facility.
+  - Virtualisation (2016–22): Consolidated infrastructure via Hyper-V and XenServer, cutting hardware costs, simplifying adminstration,  providing high availability and reliable backups (and DR planning and testing).
+  - O365 Migration (2020): Migrated from IBM/HCL Domino with Barracuda integration.
 - Audits & Compliance: Drove internal IT audits, asset/license reconciliation, and liaised with Microsoft/Autodesk during compliance checks.
 
-<p></p>
-<b>Finance Clerk | REUMECH/REUTECH Head Office, South Africa</b><br>
-<em>1997</em>
+### Finance Clerk | REUMECH/REUTECH Head Office, South Africa
+*1997*
+
+REUMECH/REUTECH was a large Arms manufacturer, but the Holding company Reunert closed down the Head Office function in 1997 and merged all business units with sister companies.
 
 - Compiled daily cash flow reports and prepared cheques.
 
-
 ## Education
 
-<b>Bachelor of Commerce in Business Informatics (Cum Laude) | University of South Africa</b><br>
-<em>2018 – 2021</em>
+### Bachelor of Commerce in Business Informatics (Cum Laude) | University of South Africa
+*2018 – 2021*
 
 - Graduated with 25 distinctions, demonstrating consistent academic excellence.
 - Coursework included SQL databases, programming, networks, project management, and internal auditing.
 
 ## Certifications
 
-<b>Offensive Security Certified Professional (OSCP) | Offensive Security</b><br>
-<em>June 2025</em>
+### Offensive Security Certified Professional (OSCP) | Offensive Security
+*June 2025*
 
 Hands-on certification (24-hour exam) in advanced penetration testing, exploiting and securing AD, networks, and web apps. Completed 70+ labs.
 
-<b>Certified Penetration Testing Specialist (HTB CPTS) | Hack the Box</b><br>
-<em>September 2024</em>
+### Certified Penetration Testing Specialist (HTB CPTS) | Hack the Box
+*September 2024*
 
 10-day practical exam covering network and web exploitation, privilege escalation, pivoting and professional reporting.
 
-<b>Certified Web Exploitation Specialist (HTB CWES) | Hack the Box</b><br>
-<em>November 2023</em>
+### Certified Web Exploitation Specialist (HTB CWES) | Hack the Box
+*November 2023*
 
-7-day exam in advanced web application exploitation and bug bounty methodologies.
+7-day practical exam in advanced web application exploitation and bug bounty methodologies.
 
-<b>CompTIA PenTest+ | CompTIA</b><br>
-<em>May 2024</em>
+### CompTIA PenTest+ | CompTIA
+*May 2024*
 
 Validated skills in penetration testing, exploitation, and vulnerability management.
 
-<b>CompTIA Security+ | CompTIA</b><br>
-<em>June 2023</em>
+### CompTIA Security+ | CompTIA
+*June 2023*
 
 Foundational certification in security principles, risk management, and network defense.
 
-<b>Additional Certifications</b>
+### Additional Certifications
 
 Red Hat Certified Engineer (RHCE), Linux Professional Institute Certified (LPIC-1), Mikrotik Certified Network Administrator (MTCNA).
 
@@ -113,29 +115,25 @@ Red Hat Certified Engineer (RHCE), Linux Professional Institute Certified (LPIC-
 
 Hands-on expertise across offensive security, enterprise IT infrastructure, and automation — bridging the gap between attack and defense.
 
-<b>Offensive Security & Pentesting</b>
+### Offensive Security & Pentesting
 
-- Tools: Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, Ligolo-ng, SysReptor
-- Techniques: SQL Injection, XSS, Privilege Escalation, Kerberoasting, Network Pivoting
+- Tools: Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, Ligolo-ng, SysReptor, etc.
+- Techniques: SQL Injection, XSS, Privilege Escalation, Kerberoasting, Pivoting, etc.
 
-<p></p>
-<b>Cybersecurity & Risk Management</b>
+### Cybersecurity & Risk Management
 
 - Vulnerability Assessment, Red Teaming, Endpoint Protection, Patch Management, Compliance Audits (Microsoft, Autodesk)
 
-<p></p>
-<b>Systems & Infrastructure</b>
+### Systems & Infrastructure
 
 - Active Directory & Group Policies, Windows Server, Linux Administration, Microsoft 365
-- Virtualization: Hyper-V, Citrix XenServer
+- Virtualisation: Hyper-V, Citrix XenServer
 
-<p></p>
-<b>Networking & Security</b>
+### Networking & Security
 
-- VLANs, Firewalls, VPNs, Network Security
+- Switches, VLANs, Firewalls, VPNs, Network Security
 
-<p></p>
-<b>Scripting & Automation</b>
+### Scripting & Automation
 
 - Python, Bash, PowerShell
 
@@ -146,4 +144,3 @@ Available upon request.
 ## Download CV
 
 [Download as PDF](/assets/cv.pdf)
-

@@ -1,3 +1,4 @@
+// Modify site title with Meow Script to make it look like a signature
 @import url("https://fonts.googleapis.com/css2?family=Meow+Script&display=swap");
 
 .site-title {
@@ -6,85 +7,31 @@
   font-weight: bold;
 }
 
+// Reduce the gutters to make the page fill more screen realestate
 .masthead__inner-wrap,
 #main,
-footer, {
+footer {
   max-width: 90% !important;
   margin-left: auto;
   margin-right: auto;
 }
 
+// Adjustments to reduce footer
 .page__footer {
   padding-top: 0;
   padding-bottom: 0;
 }
 
+// Increase avatar image slightly
 .author__avatar img {
-  max-width: 140px; 
+  max-width: 140px;
 }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1em 0;
-  font-size: 0.9em;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-}
-
-th, td {
-  padding: 0.75em;
-  text-align: left;
-  border-bottom: 1px solid #e5e5e5;
-}
-
-th {
-  background-color: #f8f8f8;
-  font-weight: 600;
-  color: #333;
-}
-
-td a {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-td a:hover {
-  text-decoration: underline;
-}
-
-tr:hover {
-  background-color: #f0f0f0;
-}
-
-.far.fa-clock {
-  margin-right: 0.5em;
-  color: #666;
-}
-
-.writeup-title {
-  font-size: 1.5em;
-  margin-bottom: 0.2em;
-}
-
-.writeup-link {
-  margin-top: 0.5em;
-  //color: #0366d6;
-  text-decoration: none;
-}
-
-.writeup-link:hover {
-  text-decoration: underline;
-}
-
+// Report Meta
 .writeup-meta {
   font-size: 0.9em;
-  //color: #666;
   margin-bottom: 0.5em;
   line-height: 1.4; /* Tightens spacing for <br> lines */
-}
-h3.writeup-title {
-  font-size: 1.2em;
-  margin: 1em 0 0.5em;
 }
 
 /** FormSpree **/
@@ -462,4 +409,3 @@ fieldset {
   text-align: center;
   white-space: nowrap;
 }
-
