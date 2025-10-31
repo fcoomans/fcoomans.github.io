@@ -31,7 +31,7 @@ I began with **CompTIA Security+** and **CompTIA Pentest+**, which gave me a sol
 
 Today, I continue to advance my skills in the **offensive side of cybersecurity**, focusing on **penetration testing** and **red team exercises** through real-world CTF challenges and labs. My goal is simple: to stay curious, keep learning, and use my knowledge to help strengthen digital security from the attacker’s perspective.
 
-Outside of cybersecurity, I enjoy reading, computer gaming, and relaxing with my family over a good movie or TV series. These moments keep me balanced and grounded.
+Outside of cybersecurity, I enjoy reading, computer gaming, relaxing with my family over a good movie or TV series or working in the garden. These moments keep me balanced and grounded.
 
 I’m always open to **local** or **remote international opportunities** where I can apply my offensive cybersecurity expertise.
 
