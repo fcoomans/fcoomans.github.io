@@ -5,7 +5,7 @@ author_profile: true
 permalink: /index.html
 ---
 
-I’m a husband, father, and cybersecurity specialist who believes in hard work, integrity, and lifelong learning.
+I’m a husband, father, and offensive cybersecurity consultant who believes in hard work, integrity, and lifelong learning.
 
 I was born and raised in South Africa during a time of significant hardship. My mother was unemployed and made handcrafted items to put food on the table. I learned to appreciate what little you had and not to compromise on your morals and values. Despite difficult challenges, my childhood taught me resilience, creativity, and gratitude for even the smallest opportunities.
 

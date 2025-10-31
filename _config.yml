@@ -49,6 +49,7 @@ include:
 # to override the default setting.
 exclude:
   - assets/css/custom.scss
+  - assets/Francis-Coomans-CV.md
 
 # exclude:
 #   - Gemfile
