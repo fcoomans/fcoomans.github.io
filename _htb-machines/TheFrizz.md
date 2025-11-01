@@ -2,6 +2,7 @@
 title: "🪄 HTB TheFrizz Write-up"
 name: TheFrizz
 date: 2025-08-23
+last_modified_at: 2025-11-01
 difficulty: Medium
 os: Windows
 skills: "Enumeration, Reverse Shell, Credential Hunting, Password Reuse, Chisel Port Forwarding, Database Looting, Kerberos, Recycle Bin artefact recovery, Password Spraying, GPO Abuse"
@@ -1076,4 +1077,5 @@ And `TheFrizz has been Pwned!` 🎉
 
 ## ⚠️ Disclaimer
 
-This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username matches my GitHub handle and is intentionally used to build my cybersecurity brand.
+This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username is intentionally used throughout this write-up to build my cybersecurity brand.
+

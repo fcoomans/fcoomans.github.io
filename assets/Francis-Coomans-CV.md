@@ -2,7 +2,7 @@
 **Cybersecurity Consultant (Offensive Security)**  
 OSCP, CPTS, CWES | 25+ Years in IT & Security  
 
-🌐 [https://fcoomans.github.io](https://fcoomans.github.io)  
+🌐 [https://fcoomans.com](https://fcoomans.com)  
 
 ---
 

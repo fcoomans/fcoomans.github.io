@@ -2,6 +2,7 @@
 title: "🐕 HTB Dog Write-up"
 name: Dog
 date: 2025-07-13
+last_modified_at: 2025-11-01
 difficulty: Easy
 os: Linux
 skills: "Enumeration, Web Shell, Reverse Shell, Password Reuse, Sudo Privilege Exploit, PHP Code Injection, Privilege Escalation"
@@ -400,4 +401,5 @@ And `Dog has been Pwned!` 🎉
 
 ## ⚠️ Disclaimer
 
-This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username matches my GitHub handle and is intentionally used to build my cybersecurity brand.
+This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username is intentionally used throughout this write-up to build my cybersecurity brand.
+

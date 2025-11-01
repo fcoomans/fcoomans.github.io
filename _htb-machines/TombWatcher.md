@@ -2,6 +2,7 @@
 title: "🪦 HTB TombWatcher Write-up"
 name: TombWatcher
 date: 2025-10-12
+last_modified_at: 2025-11-01
 os: Windows
 difficulty: Medium
 skills: "Enumeration, ACE Abuse, Kerberoasting, Password Cracking, GMSA Password Read, Tombstone Restore, ESC15, Privilege Escalation"
@@ -1121,4 +1122,5 @@ And `TombWatcher has been Pwned!` 🎉
 
 ## ⚠️ Disclaimer
 
-This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username matches my GitHub handle and is intentionally used to build my cybersecurity brand.
+This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username is intentionally used throughout this write-up to build my cybersecurity brand.
+

@@ -35,4 +35,5 @@ Outside of cybersecurity, I enjoy reading, computer gaming, relaxing with my fam
 
 I’m always open to **local** or **remote international opportunities** where I can apply my offensive cybersecurity expertise.
 
-You can view my full CV under the CV menu or get in touch through the Contact page.
+[View my CV](/cv/) or [contact me](/contact/).
+

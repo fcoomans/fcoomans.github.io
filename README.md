@@ -1,4 +1,4 @@
-# Portfolio Website
+# Personal Portfolio Website
 
 This is my personal portfolio website hosted on GitHub Pages, built with Jekyll using the Minimal Mistakes theme. 
 
@@ -35,4 +35,5 @@ However, if you're interested in viewing the implementation details, such as fro
 
 ## Live Site
 
-- URL: https://fcoomans.github.io
+- URL: https://fcoomans.com
+

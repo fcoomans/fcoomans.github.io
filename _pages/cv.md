@@ -11,9 +11,9 @@ OSCP, CPTS, CWES | 25+ Years in IT & Security
 
 ## Contact
 
-🌐 [https://fcoomans.github.io](https://fcoomans.github.io)  
+🌐 [https://fcoomans.com](https://fcoomans.com)  
 🔗 [https://www.linkedin.com/in/frans-coomans](https://www.linkedin.com/in/frans-coomans)  
-✉️ Contact via [https://fcoomans.github.io/contact](https://fcoomans.github.io/contact/)
+✉️ Contact via [https://fcoomans.com/contact](https://fcoomans.com/contact/)
 
 ## Professional Summary
 
@@ -101,4 +101,5 @@ Available upon request.
 
 ## Download My Full CV
 
-[📄 Download PDF](/assets/Francis-Coomans-CV.pdf)
+[📄 View / Download PDF](/assets/Francis-Coomans-CV.pdf)
+

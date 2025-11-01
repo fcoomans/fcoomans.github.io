@@ -2,6 +2,7 @@
 title: "🐍 HTB Code Write-up"
 name: Code
 date: 2025-08-03
+last_modified_at: 2025-11-01
 difficulty: Easy
 os: Linux
 skills: "Enumeration, Python Code Injection, Reverse Shell, Database Looting, Password Cracking, Privilege Escalation, Sudo Privilege Exploitation"
@@ -467,4 +468,5 @@ And `Code has been Pwned!` 🎉
 
 ## ⚠️ Disclaimer
 
-This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username matches my GitHub handle and is intentionally used to build my cybersecurity brand.
+This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username is intentionally used throughout this write-up to build my cybersecurity brand.
+

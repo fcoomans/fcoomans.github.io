@@ -2,6 +2,7 @@
 title: "HTB Haze Write-up"
 name: Haze
 date: 2025-06-29
+last_modified_at: 2025-11-01
 difficulty: Hard
 os: Windows
 skills: "Enumeration, Path Traversal, Username Enumeration, Password Spraying, Kerberos, ACE Abuse, ADCS Shadow Credentials, Privilege Escalation, GMSA Password Read, Pass-the-Hash, Credential Hunting, Reverse Shell" 
@@ -34,6 +35,7 @@ A port scan with `rustscan` and `nmap` revealed:
 - Active Directory services on ports `53` (DNS), `88` (Kerberos), `389/636` (LDAP), `445` (SMB), and `5985` (WinRM).
 - Splunkd running on ports `8000`, `8088`, and `8089`.
 - Certificates issued by `dc01.haze.htb` CA.
+
 ```
 fcoomans@kali:~/htb/haze$ rustscan -a 10.10.11.61 --tries 5 --ulimit 10000 -- -sCV -oA haze_tcp_all
 .----. .-. .-. .----..---.  .----. .---.   .--.  .-. .-.
@@ -258,6 +260,7 @@ Service Info: Host: DC01; OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
 A simple UDP port scan was then run.  This revealed that port `123/udp` can be used to sync time with the server.  This is important as Kerberos is time-sensitive and needs the attack host time to be in sync with the target for Kerberos ticket requests.
+
 ```
 fcoomans@kali:~/htb/haze$ nmap --top-ports 100 --open -sU 10.10.11.61
 Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-27 23:17 SAST
@@ -1878,4 +1881,5 @@ And `Haze has been Pwned!`
 
 # Disclaimer
 
-This writeup is for educational purposes only and covers a retired HTB machine. All passwords, flags, and IPs shown are part of the retired lab environment. My username used in this report matches my GitHub handle and is intentionally shown as part of my cybersecurity brand.
+This write-up covers a retired HTB machine and is for educational purposes only. All IPs, credentials, and flags exist in a lab environment. My username is intentionally used throughout this write-up to build my cybersecurity brand.
+
