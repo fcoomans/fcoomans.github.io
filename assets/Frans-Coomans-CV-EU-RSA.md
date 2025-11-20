@@ -10,9 +10,9 @@ Location: Gauteng, South Africa (Open to Local, Remote, or International Opportu
 
 ## Professional Summary
 
-Hands-on **Cybersecurity Consultant (Offensive Security)** with 25+ years in IT, recently transitioning from IT administration to **full-time offensive security**. 
-Skilled in **penetration testing, red teaming, Active Directory exploitation, and simulated security assessments**. 
-Ranked **Top 1% (Pro Hacker)** on Hack The Box and HTB Academy. Produces actionable **pentest-style write-ups** and technical **lessons learned** from complex environments. 
+Hands-on **Cybersecurity Consultant (Offensive Security)** with 25+ years in IT, recently transitioning from IT administration to **full-time offensive security**.  
+Skilled in **penetration testing, red teaming, Active Directory exploitation, and simulated security assessments**.  
+Ranked **Top 1% (Pro Hacker)** on Hack The Box and HTB Academy. Produces actionable **pentest-style write-ups** and technical **lessons learned** from complex environments.  
 Seeking **local, remote, or international offensive security roles**.
 
 ---
