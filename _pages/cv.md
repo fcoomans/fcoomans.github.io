@@ -13,15 +13,16 @@ OSCP, CPTS, CWES | 25+ Years in IT & Security
 
 🌐 [https://fcoomans.com](https://fcoomans.com)  
 🔗 [https://www.linkedin.com/in/frans-coomans](https://www.linkedin.com/in/frans-coomans)  
-✉️ Contact via [https://fcoomans.com/contact](https://fcoomans.com/contact/)
+✉️ Contact via [https://fcoomans.com/contact](https://fcoomans.com/contact/)  
+📍 Gauteng, South Africa
 
 ## Professional Summary
 
-Results-driven **Cybersecurity Consultant (Offensive Security)** with 25+ years of IT experience and hands-on expertise in **penetration testing, red teaming, and adversary simulation**.  
-Ranked **Top 1% (Pro Hacker)** on Hack The Box and **Top 1%** on HTB Academy, demonstrating practical exploitation and professional reporting of real-world vulnerabilities.  
-Bridges the gap between enterprise IT operations and offensive security, delivering actionable insights and secure outcomes.  
+Hands-on **Cybersecurity Consultant (Offensive Security)** with 25+ years in IT, recently transitioning from IT administration to **full-time offensive security**.  
+Skilled in **penetration testing, red teaming, Active Directory exploitation, and simulated security assessments**.  
+Ranked **Top 1% (Pro Hacker)** on Hack The Box and **Top 1%** on HTB Academy, demonstrating practical exploitation and professional reporting of real-world vulnerabilities.  Produces actionable **pentest-style write-ups** and technical **lessons learned** from complex environments.  
 
-Currently seeking **remote or international offensive security roles** where deep technical skill and practical penetration experience can enhance an organisation’s security posture.
+Currently seeking **local, remote, or international offensive security roles** where deep technical skill and practical penetration experience can enhance an organisation’s security posture.  
 
 ## Key Achievements
 
@@ -37,13 +38,13 @@ Currently seeking **remote or international offensive security roles** where dee
 *Jun 2023 – Present*
 
 - Earned **OSCP, CPTS, and CWES**, completing 70+ labs and demanding practical exams (OSCP 24h, CPTS 10d, CWES 7d).  
-- Compromised 40+ machines across **Active Directory, network, and web environments**.  
-- Exploited real-world vulnerabilities: **SQLi, XSS, CSRF, SSRF, Command Injection, Kerberoasting, Pivoting**.  
-- Produced professional pentest-style reports using **SysReptor**.  
+- Completed **50+ simulated penetration tests** on HTB lab environments.  
+- Exploited real-world vulnerabilities: **SQLi, XSS, CSRF, SSRF, Command Injection, Kerberoasting, Pivoting, Lateral Movement**.  
+- Produced professional **pentest-style write-ups** with technical findings and **key lessons learned / brief remediation suggestions**.  
 - Ranked **Pro Hacker (Top 1%)** on Hack The Box and **Top 1%** on HTB Academy.
 
 ### Group IT Administrator | ACTOM (Pty) Ltd – Gauteng, South Africa  
-*ACTOM is a leading energy manufacturing and engineering group in South Africa with 500+ employees across 10+ sites.*  
+*Leading energy manufacturing and engineering company with 500+ employees across 10+ sites.*  
 *Nov 1997 – Apr 2023*  
 
 - **Cybersecurity Leadership:** Trained 500+ staff; mentored IT technicians.  
@@ -54,7 +55,7 @@ Currently seeking **remote or international offensive security roles** where dee
 - **Compliance:** Internal audits and vendor compliance checks (Microsoft, Autodesk).
 
 ### Finance Clerk | Reumech/Reutech Head Office – Gauteng, South Africa  
-*Reumech/Reutech was a South African defence manufacturer, part of a large holding company, prior to restructuring.*  
+*Defense manufacturer, part of a holding company, prior to restructuring.*  
 *1997*  
 
 - Compiled daily cash flow reports and prepared payment reconciliations.
@@ -99,7 +100,10 @@ Python, PowerShell, Bash.
 
 Available upon request.
 
-## Download My Full CV
+## View / Download My CV
 
-[📄 View / Download PDF](/assets/Francis-Coomans-CV.pdf)
+- [📄 EU / RSA (A4)](/assets/Frans-Coomans-CV-EU-RSA.pdf)  
+- [📄 USA (Letter)](/assets/Frans-Coomans-CV-USA.pdf)  
+
+*Note: PDFs may open in your browser or download automatically depending on your settings.*
 

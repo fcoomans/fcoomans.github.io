@@ -2,16 +2,18 @@
 **Cybersecurity Consultant (Offensive Security)**  
 OSCP, CPTS, CWES | 25+ Years in IT & Security  
 
-🌐 [https://fcoomans.com](https://fcoomans.com)  
+Website: [https://fcoomans.com](https://fcoomans.com)  
+Email: [contact@fcoomans.com](mailto:contact@fcoomans.com)  
+Location: Gauteng, South Africa (Open to Local, Remote, or International Opportunities)  
 
 ---
 
 ## Professional Summary
 
-Hands-on **Cybersecurity Consultant (Offensive Security)** with 25+ years in IT, specialising in **penetration testing, red teaming, and adversary simulation**.  
-Ranked **Top 1% (Pro Hacker)** on Hack The Box and HTB Academy, demonstrating exploitation of complex Active Directory, network, and web environments.  
-Bridges IT operations experience with offensive security to provide actionable insights for improving enterprise security posture.  
-Seeking remote or international offensive security roles where technical skill and penetration expertise deliver measurable security impact.
+Hands-on **Cybersecurity Consultant (Offensive Security)** with 25+ years in IT, recently transitioning from IT administration to **full-time offensive security**. 
+Skilled in **penetration testing, red teaming, Active Directory exploitation, and simulated security assessments**. 
+Ranked **Top 1% (Pro Hacker)** on Hack The Box and HTB Academy. Produces actionable **pentest-style write-ups** and technical **lessons learned** from complex environments. 
+Seeking **local, remote, or international offensive security roles**.
 
 ---
 
@@ -20,7 +22,7 @@ Seeking remote or international offensive security roles where technical skill a
 - Achieved **Bachelor of Commerce in Business Informatics (Cum Laude)** while working full-time.  
 - Ranked **Top 1% globally** on Hack The Box (“Pro Hacker”) and HTB Academy.  
 - Completed **OSCP, CPTS, CWES** certifications through intensive practical labs and exams.  
-- Successfully exploited and reported on **40+ AD, network, and web systems** in simulated penetration tests.  
+- Successfully completed **50+ simulated penetration tests** on HTB lab environments, producing technical findings and **key lessons learned**.  
 - Transitioned from enterprise IT to full-time offensive security consulting, combining operational knowledge with attacker insight.
 
 ---
@@ -43,16 +45,16 @@ Seeking remote or international offensive security roles where technical skill a
 ## Technical Skills
 
 **Offensive Security & Pentesting:**  
-SQL Injection (SQLi), Blind SQLi, XSS, Stored XSS, CSRF, SSRF, Command Injection, File Inclusion, File Upload Bypass, IDOR, Session Hijacking, Privilege Escalation, Lateral Movement, Enumeration, Web Fuzzing, Manual/Automated Web Exploitation, Server-Side Template Injection (SSTI), HTTP Verb Tampering, OWASP Top 10 exploitation, Burp Suite, Metasploit, Nmap, Wireshark, Ligolo-ng, SysReptor.  
+SQL Injection (SQLi), Blind SQLi, XSS, Stored XSS, CSRF, SSRF, Command Injection, File Inclusion, File Upload Bypass, IDOR, Session Hijacking, Privilege Escalation, Lateral Movement, Enumeration, Web Fuzzing, Manual/Automated Web Exploitation, Server-Side Template Injection (SSTI), HTTP Verb Tampering, OWASP Top 10 exploitation, Burp Suite, Metasploit, Nmap, Wireshark, Ligolo-ng, SysReptor.
 
 **Cybersecurity & Risk Management:**  
-Vulnerability/Risk Reporting, Red Teaming, Endpoint Protection, Patch Management, Compliance Audits (Microsoft, Autodesk), Penetration Testing Methodologies, Threat Simulation.  
+Vulnerability/Risk Reporting, Red Teaming, Endpoint Protection, Patch Management, Compliance Audits (Microsoft, Autodesk), Penetration Testing Methodologies, Threat Simulation.
 
 **Systems & Infrastructure:**  
-Active Directory, GPOs, Windows Server, Linux Administration, Microsoft 365, Hyper-V, Citrix XenServer, Server Administration, Virtualisation, Internal IT Audits, IT Project Management.  
+Active Directory, GPOs, Windows Server, Linux Administration, Microsoft 365, Hyper-V, Citrix XenServer, Server Administration, **Virtualisation**, Internal IT Audits, IT Project Management.
 
 **Networking & Security:**  
-Routers, Switches, VLANs, Firewalls, VPNs, TCP/IP Suite, Network Security, Email Administration.  
+Routers, Switches, VLANs, Firewalls, VPNs, TCP/IP Suite, Network Security, Email Administration.
 
 **Scripting & Automation:**  
 Python, PowerShell, Bash.
@@ -62,16 +64,16 @@ Python, PowerShell, Bash.
 ## Professional Experience
 
 ### Cybersecurity Consultant | Self-Directed Training  
-*Jun 2023 – Present*
+*Jun 2023 – Present*  
 
 - Earned **OSCP, CPTS, and CWES**, completing 70+ labs and demanding practical exams (OSCP 24h, CPTS 10d, CWES 7d).  
-- Compromised 40+ Active Directory, network, and web systems.  
-- Exploited real-world vulnerabilities: **SQLi, XSS, CSRF, SSRF, Command Injection, Kerberoasting, Pivoting, Lateral Movement**.  
-- Produced professional pentest-style reports with **SysReptor**.  
+- Completed **50+ simulated penetration tests** on HTB lab environments.  
+- Exploited vulnerabilities including **SQLi, XSS, CSRF, SSRF, Command Injection, Kerberoasting, Pivoting, Lateral Movement**.  
+- Produced professional **pentest-style write-ups** with technical findings and **key lessons learned / brief remediation suggestions**.  
 - Ranked **Pro Hacker (Top 1%)** on Hack The Box and **Top 1%** on HTB Academy.
 
 ### Group IT Administrator | ACTOM (Pty) Ltd – Gauteng, South Africa  
-*ACTOM is a leading energy manufacturing and engineering group in South Africa with 500+ employees across 10+ sites.*  
+*Leading energy manufacturing and engineering company with 500+ employees across 10+ sites.*  
 *Nov 1997 – Apr 2023*  
 
 - Led awareness campaigns for 500+ staff; mentored IT technicians.  
@@ -82,7 +84,7 @@ Python, PowerShell, Bash.
 - Oversaw internal audits and vendor compliance (Microsoft, Autodesk).
 
 ### Finance Clerk | Reumech/Reutech Head Office – Gauteng, South Africa  
-*Reumech/Reutech was a South African defence manufacturer, part of a large holding company, prior to restructuring.*  
+*Defense manufacturer, part of a holding company, prior to restructuring.*  
 *1997*  
 
 - Prepared daily cash flow reports and reconciliations.
@@ -91,8 +93,8 @@ Python, PowerShell, Bash.
 
 ## Education
 
-### Bachelor of Commerce in Business Informatics (Cum Laude) | University of South Africa
-*2018–2021*
+### Bachelor of Commerce in Business Informatics (Cum Laude) | University of South Africa  
+*2018 – 2021*  
 
 - Graduated with 25 distinctions.  
 - Coursework: Databases, Networks, Programming, Project Management, Internal Auditing.
@@ -102,4 +104,3 @@ Python, PowerShell, Bash.
 ## References
 
 Available upon request.
-
