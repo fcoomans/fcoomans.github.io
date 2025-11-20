@@ -29,7 +29,7 @@ Currently seeking **local, remote, or international offensive security roles** w
 - Earned **Bachelor of Commerce in Business Informatics (Cum Laude)** while working full-time.  
 - Ranked **Top 1% globally** on Hack The Box (“Pro Hacker”) and HTB Academy.  
 - Completed **OSCP, CPTS, and CWES** through intensive practical labs and exams.  
-- Successfully exploited **40+ complex AD, network, and web systems** in simulated environments.  
+- Successfully exploited **50+ complex AD, network, and web systems** in simulated environments.  
 - Transitioned from enterprise IT leadership to full-time offensive security consulting.
 
 ## Professional Experience
