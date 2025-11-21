@@ -13,7 +13,7 @@ At school, I excelled academically and was the top male student in my grade thro
 
 So, I entered the workforce.
 
-My first job was as a **Finance Clerk** at a large South African arms manufacturer. It was a temporary position, and less than a year later, the holding company shut down the head office. I then joined a major corporate in the Energy sector, where I worked my way up from handling IT Services accounting to becoming the **Group IT Administrator**.
+My first job was as a **Finance Clerk** at a large South African arms manufacturer. It was a temporary position, and less than a year later, the holding company shut down the head office. I then joined a major corporation in the Energy sector, where I worked my way up from handling IT Services accounting to becoming the **Group IT Administrator**.
 
 Over the years, I took responsibility for major infrastructure and cybersecurity initiatives — including **networking**, **firewalls**, **VLAN segmentation**, and **server security**, as well as **virtualisation**, **backups**, **anti-virus**, and **email protection**.
 

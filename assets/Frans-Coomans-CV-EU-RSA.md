@@ -87,7 +87,7 @@ Python, PowerShell, Bash.
 - Oversaw internal audits and vendor compliance (Microsoft, Autodesk).
 
 ### Finance Clerk | Reumech/Reutech Head Office – Gauteng, South Africa  
-*Defense manufacturer, part of a holding company, prior to restructuring.*  
+*Defence manufacturer, part of a holding company, before restructuring.*  
 *1997*  
 
 - Prepared daily cash flow reports and reconciliations.

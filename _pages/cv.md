@@ -1,5 +1,5 @@
 ---
-title: Cirriculum Vitae
+title: Curriculum Vitae
 layout: single
 author_profile: true
 permalink: /cv/index.html
@@ -58,7 +58,7 @@ Currently seeking **local, remote, or international offensive security roles** w
 - **Compliance:** Internal audits and vendor compliance checks (Microsoft, Autodesk).
 
 ### Finance Clerk | Reumech/Reutech Head Office – Gauteng, South Africa  
-*Defense manufacturer, part of a holding company, prior to restructuring.*  
+*Defence manufacturer, part of a holding company, before restructuring.*  
 *1997*  
 
 - Compiled daily cash flow reports and prepared payment reconciliations.
