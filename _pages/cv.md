@@ -34,14 +34,17 @@ Currently seeking **local, remote, or international offensive security roles** w
 
 ## Professional Experience
 
-### Cybersecurity Consultant | Self-Directed Training  
-*Jun 2023 – Present*
+### Founder & Offensive Security Consultant | Netrunnerz (Pty) Ltd - Gauteng, South Africa  
+*Jun 2023 – Present*  
 
-- Earned **OSCP, CPTS, and CWES**, completing 70+ labs and demanding practical exams (OSCP 24h, CPTS 10d, CWES 7d).  
-- Completed **50+ simulated penetration tests** on HTB lab environments.  
-- Exploited real-world vulnerabilities: **SQLi, XSS, CSRF, SSRF, Command Injection, Kerberoasting, Pivoting, Lateral Movement**.  
-- Produced professional **pentest-style write-ups** with technical findings and **key lessons learned / brief remediation suggestions**.  
+- Founded and operate **Netrunnerz (Pty) Ltd**, an offensive security consultancy.
+- Delivered paid VMware ESXi root-password recovery engagement for an enterprise client.
+- Provide licensing, deployment and support services for **GFI LanGuard** and **GFI KerioControl**.
+- Hold **Offensive Security Certified Professional (OSCP), HTB Certified Penetration Testing Specialist (CPTS), and Certified Web Exploitation Specialist (CWES)** certifications.
+- Executed **50+ simulated penetration tests** on Hack The Box platforms with full attack chains (**SQLi, XSS, CSRF, SSRF, command injection, Kerberoasting, pivoting, lateral movement**).
+- Publish professional client-style **penetration test reports** for every retired Hack The Box machine completed (**executive summary, technical findings with screenshots, PoC code, and high-level remediation guidance**).
 - Ranked **Pro Hacker (Top 1%)** on Hack The Box and **Top 1%** on HTB Academy.
+- Daily driver tools: Kali Linux, Burp Suite, Metasploit, BloodHound, NetExec, Impacket, SysReptor, Nmap, Rustscan, Nessus.
 
 ### Group IT Administrator | ACTOM (Pty) Ltd – Gauteng, South Africa  
 *Leading energy manufacturing and engineering company with 500+ employees across 10+ sites.*  
