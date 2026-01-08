@@ -6,7 +6,7 @@ permalink: /cv/index.html
 ---
 
 # Francis Alwyn Coomans  
-**Cybersecurity Consultant (Offensive Security)**  
+**Cybersecurity Consultant (Offensive Security) | Senior IT Professional**  
 OSCP, CPTS, CWES | 25+ Years in IT & Security
 
 ## Contact
@@ -18,11 +18,12 @@ OSCP, CPTS, CWES | 25+ Years in IT & Security
 
 ## Professional Summary
 
-Hands-on **Cybersecurity Consultant (Offensive Security)** with 25+ years in IT, recently transitioning from IT administration to **full-time offensive security**.  
-Skilled in **penetration testing, red teaming, Active Directory exploitation, and simulated security assessments**.  
-Ranked **Top 1% (Pro Hacker)** on Hack The Box and **Top 1%** on HTB Academy, demonstrating practical exploitation and professional reporting of real-world vulnerabilities.  Produces actionable **pentest-style write-ups** and technical **lessons learned** from complex environments.  
+**Cybersecurity Consultant (Offensive Security) and Senior IT Professional** with **25+ years of enterprise IT leadership**, infrastructure engineering, and governance experience.  
+Combines deep operational knowledge (**Active Directory, Microsoft 365, networks, endpoints, audits, compliance**) with attacker methodology to identify real-world risk.  
 
-Currently seeking **local, remote, or international offensive security roles** where deep technical skill and practical penetration experience can enhance an organisation’s security posture.  
+OSCP, CPTS, CWES certified; ranked **Top 1% (Pro Hacker)** on Hack The Box and **Top 1%** on HTB Academy. Produces actionable **pentest-style reports** and documents technical **lessons learned** from complex environments.  
+
+Currently seeking **local, remote, or international** roles in **Offensive Security, IT Management, or hybrid security leadership**, combining **hands-on technical expertise with strategic IT leadership** to strengthen organizational security posture.  
 
 ## Key Achievements
 
@@ -34,28 +35,28 @@ Currently seeking **local, remote, or international offensive security roles** w
 
 ## Professional Experience
 
-### Founder & Offensive Security Consultant | Netrunnerz (Pty) Ltd - Gauteng, South Africa  
+### Founder & Offensive Security Consultant | Netrunnerz (Pty) Ltd – Gauteng, South Africa  
 *Jun 2023 – Present*  
 
-- Founded and operate **Netrunnerz (Pty) Ltd**, an offensive security consultancy.
-- Delivered paid VMware ESXi root-password recovery engagement for an enterprise client.
-- Provide licensing, deployment and support services for **GFI LanGuard** and **GFI KerioControl**.
-- Hold **Offensive Security Certified Professional (OSCP), HTB Certified Penetration Testing Specialist (CPTS), and Certified Web Exploitation Specialist (CWES)** certifications.
-- Executed **50+ simulated penetration tests** on Hack The Box platforms with full attack chains (**SQLi, XSS, CSRF, SSRF, command injection, Kerberoasting, pivoting, lateral movement**).
-- Publish professional client-style **penetration test reports** for every retired Hack The Box machine completed (**executive summary, technical findings with screenshots, PoC code, and high-level remediation guidance**).
-- Ranked **Pro Hacker (Top 1%)** on Hack The Box and **Top 1%** on HTB Academy.
-- Daily driver tools: Kali Linux, Burp Suite, Metasploit, BloodHound, NetExec, Impacket, SysReptor, Nmap, Rustscan, Nessus.
+- Founded and operate **Netrunnerz (Pty) Ltd**, an offensive security consultancy.  
+- Delivered paid VMware ESXi root-password recovery engagement for an enterprise client.  
+- Consulted on and implemented **GFI LanGuard** for **Microsoft patch management** in an enterprise environment, including deployment, configuration, and reporting.  
+- Provide licensing, deployment, and support services for **GFI LanGuard** and **GFI KerioControl**.  
+- Executed **50+ full-chain simulated penetration tests** on Hack The Box platforms (**SQLi, XSS, CSRF, SSRF, command injection, Kerberoasting, pivoting, lateral movement**).  
+- Publish professional client-style **penetration test reports** (**executive summary, technical findings with screenshots, PoC code, and high-level remediation guidance**).  
+- Ranked **Pro Hacker (Top 1%)** on Hack The Box and **Top 1%** on HTB Academy.  
 
-### Group IT Administrator | ACTOM (Pty) Ltd – Gauteng, South Africa  
+### Group IT Administrator / Senior IT Lead | ACTOM (Pty) Ltd – Gauteng, South Africa  
 *Leading energy manufacturing and engineering company with 500+ employees across 10+ sites.*  
 *Nov 1997 – Apr 2023*  
 
-- **Cybersecurity Leadership:** Trained 500+ staff; mentored IT technicians.  
-- **Risk Reduction:** Vulnerability assessments (Greenbone/OpenVAS), RBAC enforcement, AD hardening.  
-- **Network & Systems Security:** Managed **routers, switches, VLANs, firewalls, VPNs, endpoints** across 10+ sites.  
-- **Systems Administration:** AD/GPOs, Microsoft 365, Domino, Linux; automation via PowerShell, Python, Bash.  
-- **Key Projects:** Head Office IT Infrastructure, Server Room Build, Virtualisation (Hyper-V/XenServer), O365 Migration.  
-- **Compliance:** Internal audits and vendor compliance checks (Microsoft, Autodesk).
+- Delivered group-wide **IT services and cybersecurity leadership** across 10+ sites, supporting 500+ users.  
+- Mentored IT staff and provided technical leadership, including escalation support and cybersecurity awareness training.  
+- Administered **Active Directory, GPOs, Microsoft 365, HCL Domino, Windows Server, and Linux**; enforced RBAC and least-privilege access models.  
+- Managed **endpoint protection, patch management, backups, VPN services, network segmentation, firewalls, and routers**.  
+- Led **key IT projects**, including server room infrastructure, multi-site IT deployment, ISP migrations, endpoint protection replacement, and Domino → Microsoft 365 migration.  
+- Conducted **internal audits, compliance checks, and policy development**, liaising with vendors such as Microsoft and Autodesk.  
+- Developed **automation tools** in Python, PowerShell, and Bash to streamline IT operations.
 
 ### Finance Clerk | Reumech/Reutech Head Office – Gauteng, South Africa  
 *Defence manufacturer, part of a holding company, before restructuring.*  
@@ -78,26 +79,26 @@ Currently seeking **local, remote, or international offensive security roles** w
 - **CWES** (Hack The Box, 2023)  
 - **CompTIA PenTest+** (2024)  
 - **CompTIA Security+** (2023)  
-- **MTCNA** (Mikrotik, 2017, Expired, knowledge retained)  
-- **RHCE** (Red Hat, 2007, Expired, knowledge retained)  
-- **LPIC-1** (LPI, 2007, Expired, knowledge retained)
+- **MTCNA** (Mikrotik, 2017, Expired but knowledge retained)  
+- **RHCE** (Red Hat, 2007, Expired but knowledge retained)  
+- **LPIC-1** (LPI, 2007, Expired but knowledge retained)
 
 ## Technical Skills
 
 **Offensive Security & Pentesting:**  
-SQL Injection (SQLi), XSS, CSRF, SSRF, Command Injection, File Upload Bypass, Privilege Escalation, Lateral Movement, Pivoting, Enumeration, Web Fuzzing, Manual/Automated Exploitation, Burp Suite, Metasploit, Nmap, Wireshark, Ligolo-ng, SysReptor.
+Penetration Testing, Red Teaming, Active Directory Exploitation, Enumeration, Privilege Escalation, Lateral Movement, SQLi, XSS, CSRF, SSRF, Command Injection, File Inclusion, SSTI, IDOR, Burp Suite, Metasploit, Nmap, BloodHound, Impacket, NetExec, SysReptor, Wireshark, Ligolo-ng.
 
 **Cybersecurity & Risk Management:**  
-Vulnerability Assessment, Red Teaming, Endpoint Protection, Patch Management, Compliance Audits (Microsoft, Autodesk).
+Vulnerability Assessment, Patch Management, Endpoint Protection, Security Awareness Training, Red Teaming, Internal IT Audits, Compliance Audits (Microsoft, Autodesk), Policy & Procedure Development, Risk Reporting.
 
 **Systems & Infrastructure:**  
-Active Directory, GPOs, Windows Server, Linux Administration, Microsoft 365, Hyper-V, Citrix XenServer.
+Active Directory, Group Policy, Microsoft 365, HCL Domino, Windows Server, Linux Administration, Hyper-V, XenServer, Docker, Backup Systems, Proxies, VPN Services, Email Systems.
 
 **Networking & Security:**  
-Routers, Switches, VLANs, Firewalls, VPNs.
+Routers, Switches, VLANs/Subnetting, Firewalls, TCP/IP, Secure Remote Access (VPNs), Network Segmentation.
 
-**Scripting & Automation:**  
-Python, PowerShell, Bash.
+**Leadership & Automation:**  
+IT Team Leadership, Multi-Site IT Operations, IT Project Management, Vendor Management, Python, PowerShell, Bash Automation.
 
 ## References
 
