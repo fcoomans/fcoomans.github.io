@@ -6,7 +6,7 @@ permalink: /cv/index.html
 ---
 
 # Francis Alwyn Coomans  
-**Founder & Lead Consultant | Enterprise IT, Networks & Security**
+**Founder & Lead Consultant | Enterprise IT, Networks & Security**  
 OSCP, CPTS, CWES | 25+ Years in IT & Security
 
 ## Contact
