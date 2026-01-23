@@ -1,30 +1,32 @@
-# Francis Alwyn Coomans  
-**Cybersecurity Consultant (Offensive Security) | Senior IT Professional**  
+# Francis Alwyn Coomans
+**Founder & Lead Consultant | Enterprise IT, Networks & Security**  
 OSCP, CPTS, CWES | 25+ Years in IT & Security  
 
 Website: [https://fcoomans.com](https://fcoomans.com)  
 Email: [contact@fcoomans.com](mailto:contact@fcoomans.com)  
-Location: Gauteng, South Africa (Open to Remote, or International Opportunities)  
+Location: Gauteng, South Africa
 
 ---
 
 ## Professional Summary
 
-**Cybersecurity & IT Professional** with **25+ years of enterprise IT leadership**, infrastructure engineering, and governance experience, recently transitioned into **hands-on offensive security consulting**.  
-Combines deep operational knowledge (**AD, M365, networks, endpoints, audits, compliance**) with attacker methodology to identify real-world risk.  
-OSCP, CPTS, CWES certified; ranked **Top 1% (Pro Hacker)** on Hack The Box.  
+**Founder & Lead Consultant** with **25+ years of experience** designing and delivering enterprise IT, networking, and security solutions.
 
-Seeking **remote, or international** opportunities for **Offensive Security, IT Manager, Head of IT, or hybrid security leadership roles**.
+I lead the **architecture, security, and delivery of resilient IT environments**, combining decades of hands-on infrastructure and systems experience with advanced cybersecurity expertise. My background includes enterprise **Active Directory, Microsoft 365, networking, virtualization, endpoint security, audits, compliance, and large-scale IT project delivery**.
+
+I hold advanced security certifications including **OSCP, CPTS, and CWES**. This offensive security expertise directly informs how I design and secure real-world IT environments — enabling me to understand not only how systems should be built, but how they are attacked and where genuine risk exists.
+
+Through Netrunnerz (Pty) Ltd, I provide **end-to-end accountability for IT and security initiatives**, working directly with clients and trusted specialist partners to deliver scalable, secure, and practical solutions aligned to business objectives.
 
 ---
 
 ## Key Achievements
 
-- Achieved **Bachelor of Commerce in Business Informatics (Cum Laude)** while working full-time.  
-- Ranked **Top 1% globally** on Hack The Box (“Pro Hacker”) and HTB Academy.  
-- Completed **OSCP, CPTS, CWES** certifications through intensive practical labs and exams.  
-- Successfully completed **50+ simulated penetration tests** on HTB lab environments, producing technical findings and **key lessons learned**.  
-- Transitioned from enterprise IT to full-time offensive security consulting, combining operational knowledge with attacker insight.
+- Earned **Bachelor of Commerce in Business Informatics (Cum Laude)** while working full-time.
+- Ranked **Top 1% globally** on Hack The Box (“Pro Hacker”) and HTB Academy.
+- Completed **OSCP, CPTS, and CWES** through intensive hands-on labs and examinations.
+- Completed **50+ complex Active Directory, network, and web security assessments** in simulated enterprise environments.
+- Delivered **enterprise IT leadership and cybersecurity oversight** for 500+ users across 10+ sites over two decades.
 
 ---
 
@@ -45,93 +47,91 @@ Seeking **remote, or international** opportunities for **Offensive Security, IT 
 
 ## Technical Skills
 
-**Offensive Security & Adversary Simulation:**  
-Penetration Testing, Red Teaming, Active Directory Exploitation, Enumeration, Web Fuzzing, Privilege Escalation, Lateral Movement, Kerberoasting, SQLi, XSS, CSRF, SSRF, Command Injection, File Inclusion, SSTI, IDOR, OWASP Top 10, Burp Suite, Metasploit, Nmap, BloodHound, Impacket, NetExec, Wireshark, Ligolo-ng, SysReptor.
+### **Enterprise IT & Infrastructure**
+IT Architecture & Solution Design, Active Directory & Identity Management, Group Policy, Microsoft 365, Windows Server, Linux Administration, Virtualization (Hyper-V, XenServer), Containers (Docker), Backup & Recovery Systems, Email & Collaboration Platforms, Secure Remote Access, Infrastructure Hardening.
 
-**Cybersecurity Operations & Risk Management:**  
-Vulnerability Management, Risk Assessment & Reporting, Endpoint Protection, Patch Management, RBAC, Least Privilege (PoLP), Security Awareness Training, Internal IT Audits, Compliance Audits (Microsoft, Autodesk), Policy/Procedure Development, Incident Prevention.
+### **Networking & Secure Design**
+Enterprise Network Design, Routers & Switches, VLANs & Subnetting, Firewalls, Network Segmentation, TCP/IP, VPN Services, Secure Remote Connectivity, Network Troubleshooting, Resilient & Scalable Network Architectures.
 
-**IT Infrastructure & Systems Administration:**  
-Active Directory, Group Policy, Microsoft 365, HCL Domino, Windows Server, Linux Administration, **Virtualization** (Hyper-V, XenServer), **Containers** (Docker), Backup Systems, Proxies, VPN Services, Email Systems.
+### **Cybersecurity & Risk Management**
+Cybersecurity Architecture, Vulnerability Assessment, Patch Management, Endpoint Protection, RBAC and Least Privilege (PoLP), Security Awareness Training, Internal IT Audits, Compliance Audits (Microsoft, Autodesk), Policy & Procedure Development, Risk Identification & Reporting, Secure Configuration Management.
 
-**Networking & Perimeter Security:**  
-Routers, Switches, Network Segmentation (VLANs, Subnetting), Firewalls, TCP/IP, Secure Remote Access (VPNs).
+### **Offensive Security & Security Testing**
+Penetration Testing, Adversary Simulation, Active Directory Security Assessments, Enumeration, Privilege Escalation, Lateral Movement, Web Application Security Testing (SQLi, XSS, CSRF, SSRF, Command Injection, File Inclusion, SSTI, IDOR), Attack Path Analysis, Executive and Technical Security Reporting.
 
-**Leadership, Projects & Automation:**  
-IT Team Leadership, Mentorship, Multi-Site IT Operations, IT Project Management, Vendor Management, Python, PowerShell, Bash Automation.
+### **Leadership & Automation**
+IT Project Leadership, Multi-Site IT Operations, Vendor & Stakeholder Management, Technical Mentoring, Python, PowerShell, Bash Automation.
 
 ---
 
 ## Professional Experience
 
-### Founder & Offensive Security Consultant | Netrunnerz (Pty) Ltd – Gauteng, South Africa  
+### Founder & Lead Consultant | Netrunnerz (Pty) Ltd – Gauteng, South Africa  
 *Jun 2023 – Present*  
 
-- Founded and operate **Netrunnerz (Pty) Ltd**, an offensive security consultancy.  
-- Delivered paid VMware ESXi root-password recovery engagement for an enterprise client.  
-- Consulted on and implemented **GFI LanGuard** for **Microsoft patch management** in an enterprise environment, including deployment, configuration, and reporting.  
-- Provide licensing, deployment, and support services for **GFI LanGuard** and **GFI KerioControl**.  
+- Founded and lead **Netrunnerz (Pty) Ltd**, delivering enterprise IT, networking, and security consulting services.
+- **Lead solution architecture, security assessments, and project delivery**, acting as a **single point of accountability** for clients.
+- Work with **trusted specialist partners** where required to deliver projects at scale.
+- Delivered paid VMware ESXi root-password recovery engagement for an enterprise client.
+- Consulted on and implemented **GFI LanGuard** for **Microsoft patch management**, including deployment, configuration, and reporting.
+- Provide licensing, deployment, and support services for **GFI LanGuard** and **GFI KerioControl**.
 - Executed **50+ full-chain simulated penetration tests** on Hack The Box platforms (**SQLi, XSS, CSRF, SSRF, command injection, Kerberoasting, pivoting, lateral movement**).  
 - Publish professional client-style **penetration test reports** for every retired Hack The Box machine completed (**executive summary, technical findings with screenshots, PoC code, and high-level remediation guidance**).  
 - Ranked **Pro Hacker (Top 1%)** on Hack The Box and **Top 1%** on HTB Academy.  
-- Daily driver tools: Kali Linux, Burp Suite, Metasploit, BloodHound, NetExec, Impacket, SysReptor, Nmap, Rustscan, Nessus.
+
 
 ### Group IT Administrator / Senior IT Lead | ACTOM (Pty) Ltd – Gauteng, South Africa  
 *Leading energy manufacturing and engineering group with 500+ employees across 10+ sites.*  
 *Nov 1997 – Apr 2023*  
 
+Delivered group-wide IT services and cybersecurity leadership for a leading energy manufacturing and engineering group with 500+ employees across 10+ sites.
+
 **Leadership & IT Service Delivery**
-- Delivered group-wide IT services across **10+ sites**, supporting 500+ users in a manufacturing and engineering environment.
-- Mentored and supervised IT technicians; provided escalation support and technical leadership.
-- Delivered ongoing **cybersecurity awareness training** to staff, including phishing and social engineering awareness.
+- **Led enterprise IT operations** across multiple sites, supporting business-critical manufacturing and engineering systems.
+- **Mentored IT staff** and provided escalation support and technical leadership.
+- Delivered **cybersecurity awareness training**, including phishing and social engineering risk education.
 
 **Infrastructure & Systems Administration**
 - Administered **Active Directory and Group Policy**, enforcing RBAC and least-privilege (PoLP) access models.
-- Managed enterprise systems including **Microsoft 365, HCL Domino, Windows Server, and Linux platforms**.
-- Administered **endpoint protection and patch management** solutions across the group.
-- Maintained Linux-based infrastructure supporting backups, proxies, and secure VPN services (OpenVPN).
+- Managed **Microsoft 365, HCL Domino, Windows Server, and Linux environments**.
+- Administered **endpoint protection, patch management, backups, VPN services, and network segmentation**.
 
-**Cybersecurity & Risk Management**
-- Implemented **network segmentation** using VLANs and subnetting to reduce lateral movement risk.
-- Managed **firewalls and VPNs** to secure perimeter access and remote connectivity.
-- Performed **internal vulnerability assessments** using OpenVAS/Greenbone as part of audit processes.
-- Strengthened identity and access management through RBAC and security hardening initiatives.
-
-**Project Leadership & Delivery**
-- Designed and delivered **server room infrastructure**, overseeing planning, vendor coordination, and implementation.
-- Led **multi-site IT infrastructure design and deployment**, including networks, servers, and security controls.
-- Managed **ISP migrations and network service transitions**, ensuring minimal downtime.
-- Led group-wide **endpoint protection replacement**, from evaluation to AD GPO deployment, completed in under six months.
-- Planned and executed **HCL Domino to Microsoft 365 migration**, integrating Barracuda email security.
-
-**Audits, Compliance & Governance**
-- Conducted **bi-annual internal IT audits**, tracked findings, and implemented remediation plans.
-- Reported audit outcomes and risk recommendations to senior management.
+**Cybersecurity, Risk & Governance**
+- Implemented **network segmentation** using VLANs and subnetting to reduce attack surface and lateral movement.
+- Managed **firewalls and VPN infrastructure** securing perimeter and remote access.
+- Conducted **internal vulnerability assessments** and security hardening initiatives.
+- Performed **bi-annual internal IT audits** and reported findings and **remediation plans** to senior management.
 - Liaised with vendors including **Microsoft and Autodesk** during compliance audits.
-- Improved audit processes covering **IT asset management, software licensing, and AD security**.
-- Co-developed internal **IT policies, procedures, and audit questionnaires** with group IT management.
+- Co-developed internal **IT policies, procedures, and audit frameworks**.
 
-**Automation & System Development**
-- Developed in-house automation and tooling using **Python, PowerShell, and Bash** to streamline IT operations and reduce manual workload.
+**Project Leadership**
+- Designed and delivered **server room infrastructure** and **multi-site IT deployments**.
+- Led **ISP migrations, endpoint protection replacement projects, and Domino to Microsoft 365 migration initiatives**.
+- **Coordinated vendors and stakeholders** to deliver **projects on time and with minimal operational disruption**.
 
-### Finance Clerk | Reumech/Reutech Head Office – Gauteng, South Africa  
+**Automation**
+- Developed automation solutions using **Python, PowerShell, and Bash** to streamline IT operations and reduce manual workload.  
+
+
+### Finance Clerk | Reumech / Reutech Head Office – Gauteng, South Africa  
 *Defense manufacturer, part of a holding company, before restructuring.*  
-*1997*  
+1997  
 
-- Prepared daily cash flow reports and reconciliations.
+- Prepared daily cash flow reports and payment reconciliations.
 
 ---
 
 ## Education
 
-### Bachelor of Commerce in Business Informatics (Cum Laude) | University of South Africa  
+Bachelor of Commerce in Business Informatics (Cum Laude) | University of South Africa  
 *2018 – 2021*  
 
-- Graduated with 25 distinctions.  
-- Coursework: Databases, Networks, Programming, Project Management, Internal Auditing.
+- Graduated with **25 distinctions**.
+- Coursework included Databases, Networks, Programming, Project Management, and Internal Auditing.
 
 ---
 
 ## References
 
 Available upon request.
+

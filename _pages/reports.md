@@ -5,6 +5,7 @@ permalink: /reports/index.html
 
 <div>  
   <h1 id="page-title" class="page__title">HTB Machine Write-ups</h1>
+  <p>I continue to sharpen my hands-on cybersecurity skills through Hack The Box challenges and CTF exercises. These exercises enhance my ability to design and deploy secure IT and network systems, giving me insight into real-world attack techniques that informs every solution I deliver for clients.</p>
   <div class="entries-list">
 
 {% assign machines = site.htb-machines | sort: "date" | reverse %}

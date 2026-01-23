@@ -6,7 +6,7 @@ permalink: /cv/index.html
 ---
 
 # Francis Alwyn Coomans  
-**Cybersecurity Consultant (Offensive Security) | Senior IT Professional**  
+**Founder & Lead Consultant | Enterprise IT, Networks & Security**
 OSCP, CPTS, CWES | 25+ Years in IT & Security
 
 ## Contact
@@ -18,27 +18,29 @@ OSCP, CPTS, CWES | 25+ Years in IT & Security
 
 ## Professional Summary
 
-**Cybersecurity Consultant (Offensive Security) and Senior IT Professional** with **25+ years of enterprise IT leadership**, infrastructure engineering, and governance experience.  
-Combines deep operational knowledge (**Active Directory, Microsoft 365, networks, endpoints, audits, compliance**) with attacker methodology to identify real-world risk.  
+**Founder & Lead Consultant** with **25+ years of experience designing and delivering enterprise IT, networking, and security solutions**.
 
-OSCP, CPTS, CWES certified; ranked **Top 1% (Pro Hacker)** on Hack The Box and **Top 1%** on HTB Academy. Produces actionable **pentest-style reports** and documents technical **lessons learned** from complex environments.  
+I design, lead, and oversee the delivery of **secure, resilient IT environments**, combining deep hands-on experience in infrastructure, systems, and networks with advanced cybersecurity expertise. My background spans two decades of **enterprise IT leadership, covering Active Directory, Microsoft 365, networking, virtualization, endpoint security, audits, and compliance**.
 
-Currently seeking **local, remote, or international** roles in **Offensive Security, IT Management, or hybrid security leadership**, combining **hands-on technical expertise with strategic IT leadership** to strengthen organizational security posture.  
+I hold advanced security certifications including **OSCP, CPTS, and CWES**. This offensive security expertise informs how I **design and secure real-world IT environments** — allowing me to understand not only how systems should be built, but how they are attacked and where real risk lies.
+
+Through **Netrunnerz (Pty) Ltd**, I provide end-to-end accountability for IT and security projects, working directly with clients and trusted specialist partners to deliver scalable, secure, and practical solutions.
 
 ## Key Achievements
 
 - Earned **Bachelor of Commerce in Business Informatics (Cum Laude)** while working full-time.  
 - Ranked **Top 1% globally** on Hack The Box (“Pro Hacker”) and HTB Academy.  
 - Completed **OSCP, CPTS, and CWES** through intensive practical labs and exams.  
-- Successfully exploited **50+ complex AD, network, and web systems** in simulated environments.  
-- Transitioned from enterprise IT leadership to full-time offensive security consulting.
+- Completed **50+ complex Active Directory, network, and web security assessments** in simulated enterprise environments.
 
 ## Professional Experience
 
-### Founder & Offensive Security Consultant | Netrunnerz (Pty) Ltd – Gauteng, South Africa  
+### Founder & Lead Consultant | Netrunnerz (Pty) Ltd – Gauteng, South Africa  
 *Jun 2023 – Present*  
 
-- Founded and operate **Netrunnerz (Pty) Ltd**, an offensive security consultancy.  
+- Founded and lead **Netrunnerz (Pty) Ltd**, delivering enterprise IT, networking, and security consulting services.
+- Lead solution architecture, security assessments, and project delivery for client environments, providing a single point of accountability.
+- Work with trusted specialist partners where required to deliver projects at scale.
 - Delivered paid VMware ESXi root-password recovery engagement for an enterprise client.  
 - Consulted on and implemented **GFI LanGuard** for **Microsoft patch management** in an enterprise environment, including deployment, configuration, and reporting.  
 - Provide licensing, deployment, and support services for **GFI LanGuard** and **GFI KerioControl**.  
@@ -69,7 +71,7 @@ Currently seeking **local, remote, or international** roles in **Offensive Secur
 ### Bachelor of Commerce in Business Informatics (Cum Laude) | University of South Africa
 *2018–2021*
 
-- Graduated with 25 distinctions.  
+- Graduated with **25 distinctions**.  
 - Coursework: Databases, Networks, Programming, Project Management, Internal Auditing.
 
 ## Certifications
@@ -85,20 +87,20 @@ Currently seeking **local, remote, or international** roles in **Offensive Secur
 
 ## Technical Skills
 
-**Offensive Security & Pentesting:**  
-Penetration Testing, Red Teaming, Active Directory Exploitation, Enumeration, Privilege Escalation, Lateral Movement, SQLi, XSS, CSRF, SSRF, Command Injection, File Inclusion, SSTI, IDOR, Burp Suite, Metasploit, Nmap, BloodHound, Impacket, NetExec, SysReptor, Wireshark, Ligolo-ng.
+**Enterprise IT & Infrastructure**  
+IT Architecture & Solution Design, Active Directory & Identity Management, Group Policy, Microsoft 365, Windows Server, Linux Administration, Virtualization (Hyper-V, XenServer), Containers (Docker), Backup & Recovery Systems, Email & Collaboration Platforms, Secure Remote Access, Infrastructure Hardening.
 
-**Cybersecurity & Risk Management:**  
-Vulnerability Assessment, Patch Management, Endpoint Protection, Security Awareness Training, Red Teaming, Internal IT Audits, Compliance Audits (Microsoft, Autodesk), Policy & Procedure Development, Risk Reporting.
+**Networking & Secure Design**  
+Enterprise Network Design, Routers & Switches, VLANs & Subnetting, Firewalls, Network Segmentation, TCP/IP, VPN Services, Secure Remote Connectivity, Network Troubleshooting, Resilient & Scalable Network Architectures.
 
-**Systems & Infrastructure:**  
-Active Directory, Group Policy, Microsoft 365, HCL Domino, Windows Server, Linux Administration, Hyper-V, XenServer, Docker, Backup Systems, Proxies, VPN Services, Email Systems.
+**Cybersecurity & Risk Management**  
+Cybersecurity Architecture, Vulnerability Assessment, Patch Management, Endpoint Protection, Security Awareness Training, Internal IT Audits, Compliance Audits (Microsoft, Autodesk), Policy & Procedure Development, Risk Identification & Reporting, Secure Configuration Management.
 
-**Networking & Security:**  
-Routers, Switches, VLANs/Subnetting, Firewalls, TCP/IP, Secure Remote Access (VPNs), Network Segmentation.
+**Offensive Security & Security Testing**  
+Penetration Testing, Adversary Simulation, Active Directory Security Assessments, Enumeration, Privilege Escalation, Lateral Movement, Web Application Security Testing (SQLi, XSS, CSRF, SSRF, Command Injection, File Inclusion, SSTI, IDOR), Attack Path Analysis, Executive & Technical Security Reporting.
 
-**Leadership & Automation:**  
-IT Team Leadership, Multi-Site IT Operations, IT Project Management, Vendor Management, Python, PowerShell, Bash Automation.
+**Leadership & Automation**  
+IT Project Leadership, Multi-Site IT Operations, Vendor & Stakeholder Management, Technical Mentoring, Python, PowerShell, Bash Automation.
 
 ## References
 
